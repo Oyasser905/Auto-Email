@@ -1,6 +1,6 @@
 # Auto-Email
 
-In order for the program to function properly you need to do 2 things
+In order for the program to function properly you need to do a couple of changes
 
   1.If you have two step verification on, turn it off.
   
