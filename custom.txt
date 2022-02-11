@@ -1,8 +1,0 @@
-#Your Email
-#Your Password
-#Receiver's Email
-#Your name
-#Receiver's name 
-#Course name
-#Subject
-#Message
